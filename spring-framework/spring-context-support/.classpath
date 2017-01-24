@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="bin/main" path="src/main/java"/>
+	<classpathentry kind="src" output="bin/main" path="src/main/resources"/>
+	<classpathentry kind="src" output="bin/test" path="src/test/java"/>
+	<classpathentry kind="src" output="bin/test" path="src/test/resources"/>
+	<classpathentry exported="true" kind="src" path="/spring-core"/>
+	<classpathentry exported="true" kind="src" path="/spring-beans"/>
+	<classpathentry exported="true" kind="src" path="/spring-context"/>
+	<classpathentry exported="true" kind="src" path="/spring-jdbc"/>
+	<classpathentry exported="true" kind="src" path="/spring-tx"/>
+	<classpathentry exported="true" kind="src" path="/spring-beans-groovy"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="con" path="org.springsource.ide.eclipse.gradle.classpathcontainer"/>
+	<classpathentry kind="output" path="spring-context-support/bin/eclipse"/>
+</classpath>
